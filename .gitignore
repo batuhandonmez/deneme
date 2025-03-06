@@ -21,17 +21,10 @@ yarn-error.log
 /.nova
 /.vscode
 /.zed
-/vendor
-/node_modules
-/.env
 /.env.example
-/public/storage
-/storage/*.key
 /storage/oauth-private.key
 /storage/oauth-public.key
 /database/database.sqlite
 /database/database.sqlite-journal
 /bootstrap/cache/
-.idea
-.vscode
 .DS_Store
